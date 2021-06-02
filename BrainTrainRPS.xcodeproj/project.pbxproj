@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		C72110D026679597007B2860 /* BrainTrainRPS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BrainTrainRPS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C72110D326679597007B2860 /* BrainTrainRPSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrainTrainRPSApp.swift; sourceTree = "<group>"; };
-		C72110D526679597007B2860 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C72110D526679597007B2860 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 1; };
 		C72110D72667959A007B2860 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C72110DA2667959A007B2860 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C72110DC2667959A007B2860 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
